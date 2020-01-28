@@ -16,8 +16,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Geonmin Kim
-  tagline: Research Engineer 
-           
+  tagline: Research Engineer  
            at Clova Speech, Naver
   date_format: "%b %-d, %Y"
   style: black
