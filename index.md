@@ -109,7 +109,7 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 * Location-robust blind source extraction (2018, M)  
 *for free-running embedded speech recognition technology for natural language dialogue with robots Korea Evaluation Institute of Industrial Technology (KEIT)*
 
-* Unpaired speech enhancement (2017, L)
+* Unpaired speech enhancement (2017, L)  
 *for spontaneous spoken dialog system for language learning Electronics and Telecommunications Research Institute (ETRI)*
 
 ##### Natural language generation
