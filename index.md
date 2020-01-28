@@ -18,7 +18,8 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 
 ### 2019
 **[T] Generalization of Neural Network on Unseen Acoustic Environment and Sentence for Spoken Dialog System**
-* phD Thesis, Korea Advanced Institute of Science and Technology (advised by Prof Daeshik Kim and Soo-Young Lee)
+* phD Thesis, Korea Advanced Institute of Science and Technology  
+(advised by Prof Daeshik Kim and Soo-Young Lee)
 * [\[paper\]](https://github.com/lifelongeek/lifelongeek.github.io/blob/master/GeonminKim_phDthesis.pdf)
 
 **[J4] Style-Controlled Synthesis of Clothing Segments for Fashion Image Manipulation**
@@ -89,7 +90,7 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 * Best Paper Award, HAI, 2015
 * Qualcomm Innovation Award, 2015  
 *title: Active Learning for Large-scale Object Classification: from Exploration to Exploitation*
-* BK21 Plus Financial Support for Graduates Long Term Training, July. 2014
+* BK21 Plus Financial Support for Graduates Long Term Training, July. 2014  
 *Visiting student at BioPOETS lab, UC Berkeley, U.S., July. - August. 2014*
 * KAIST Graduate Scholarship, Mar. 2013 - Feb. 2020
  
@@ -100,22 +101,22 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 #### Speech recognition
 * Semi-supervised continuous speech recognition (2016, L)
 * End-to-end continuous speech recognition (2015, L)
-* Acoustic model for Korean Syllable (2013-2014, L)
+* Acoustic model for Korean Syllable (2013-2014, L)  
 *for spontaneous spoken dialog system for language learning Electronics and Telecommunications Research Institute (ETRI)*
 
 #### Speech enhancement
-* Location-robust blind source extraction (2018, M)
+* Location-robust blind source extraction (2018, M)  
 *for free-running embedded speech recognition technology for natural language dialogue with robots Korea Evaluation Institute of Industrial Technology (KEIT)*
 
 * Unpaired speech enhancement (2017, L)
 *for spontaneous spoken dialog system for language learning Electronics and Telecommunications Research Institute (ETRI)*
 
 #### Natural language generation
-* Article based question-answering and chitchat bot (2017, L)
+* Article based question-answering and chitchat bot (2017, L)  
 *for emotional intelligence technology to infer human emotion and carry on dialogue accordingly Institute for Information & Communication Technology Promotion (IITP)*
 
 ### Sony Computer Entertainment America
-#### Multiple keyword spotting
+#### Multiple keyword spotting  
 *Research intern (mentor: Ruxin Chen)*
 
 
