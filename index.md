@@ -98,7 +98,7 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 ### Working experience
 (L: leader, M: member)
 
-#### [Computational NeuroSystem Laboratory](cnsl.kaist.ac.kr), Korea Advanced Institute of Science and Technology (Mar. 2013 - Dec. 2019)
+#### [Computational NeuroSystem Laboratory](cnsl.kaist.ac.kr), Korea Advanced Institute of Science and Technology (Graduate student, Mar. 2013 - Dec. 2019)
 ##### Speech recognition
 * Semi-supervised continuous speech recognition (2016, L)
 * End-to-end continuous speech recognition (2015, L)
@@ -116,9 +116,8 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 * Article based question-answering and chitchat bot (2017, L)  
 *for emotional intelligence technology to infer human emotion and carry on dialogue accordingly Institute for Information & Communication Technology Promotion (IITP)*
 
-#### [Sony Interactive Entertainment America](https://www.sie.com/en/index.html) (Oct. 2012 - Feb. 2013 ) 
-##### Multiple keyword spotting  
-*Research intern (mentor: Ruxin Chen)*
+#### [Sony Interactive Entertainment America](https://www.sie.com/en/index.html) (Research intern, Oct. 2012 - Feb. 2013 ) 
+* Multiple keyword spotting
 
 
 
