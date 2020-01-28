@@ -19,7 +19,7 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 ### 2019
 **[T] Generalization of Neural Network on Unseen Acoustic Environment and Sentence for Spoken Dialog System**
 * phD thesis
-* [\[paper\]](https://github.com/lifelongeek/lifelongeek.github.io/blob/master/GeonminKim_phDthesis.pdf)
+* <span style="color:blue">[\[paper\]](https://github.com/lifelongeek/lifelongeek.github.io/blob/master/GeonminKim_phDthesis.pdf)</span>
 
 **[J4] Style-Controlled Synthesis of Clothing Segments for Fashion Image Manipulation**
 * Bo-Kyeong Kim, **Geonmin Kim**, Soo-Young Lee
