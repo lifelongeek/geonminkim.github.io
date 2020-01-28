@@ -116,7 +116,7 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 * Article based question-answering and chitchat bot (2017, L)  
 *for emotional intelligence technology to infer human emotion and carry on dialogue accordingly Institute for Information & Communication Technology Promotion (IITP)*
 
-#### [Sony Interactive Entertainment America](https://www.sie.com/en/index.html)(Oct. 2012 - Feb. 2013 ) 
+#### [Sony Interactive Entertainment America](https://www.sie.com/en/index.html) (Oct. 2012 - Feb. 2013 ) 
 ##### Multiple keyword spotting  
 *Research intern (mentor: Ruxin Chen)*
 
