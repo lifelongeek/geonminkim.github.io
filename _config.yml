@@ -17,7 +17,7 @@ permalink: /posts/:title/
 texture:
   title: Geonmin Kim
   tagline: Research Engineer  
-           at Clova Speech, Naver
+           at Clova AI Research, Naver
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
