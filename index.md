@@ -100,24 +100,24 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 
 #### [Computational NeuroSystem Laboratory](cnsl.kaist.ac.kr), KAIST (Graduate student, Mar. 2013 - Dec. 2019)
 ##### Speech recognition
-* Semi-supervised continuous speech recognition (2016, L)
-* End-to-end continuous speech recognition (2015, L)
-* Acoustic model for Korean Syllable (2013-2014, L)  
-*for spontaneous spoken dialog system for language learning Electronics and Telecommunications Research Institute (ETRI)*
+###### Semi-supervised continuous speech recognition (2016, L)
+###### End-to-end continuous speech recognition (2015, L)
+###### Acoustic model for Korean Syllable (2013-2014, L)  
+###### *for spontaneous spoken dialog system for language learning Electronics and Telecommunications Research Institute (ETRI)*
 
 ##### Speech enhancement
-* Location-robust blind source extraction (2018, M)  
-*for free-running embedded speech recognition technology for natural language dialogue with robots Korea Evaluation Institute of Industrial Technology (KEIT)*
+###### Location-robust blind source extraction (2018, M)  
+###### *for free-running embedded speech recognition technology for natural language dialogue with robots Korea Evaluation Institute of Industrial Technology (KEIT)*
 
 * Unpaired speech enhancement (2017, L)  
 *for spontaneous spoken dialog system for language learning Electronics and Telecommunications Research Institute (ETRI)*
 
 ##### Natural language generation
-* Article based question-answering and chitchat bot (2017, L)  
-*for emotional intelligence technology to infer human emotion and carry on dialogue accordingly Institute for Information & Communication Technology Promotion (IITP)*
+###### Article based question-answering and chitchat bot (2017, L)  
+###### *for emotional intelligence technology to infer human emotion and carry on dialogue accordingly Institute for Information & Communication Technology Promotion (IITP)*
 
 #### [Sony Interactive Entertainment America](https://www.sie.com/en/index.html) (Intern, Oct. 2012 - Feb. 2013 ) 
-* Multiple keyword spotting in audio
+##### Multiple keyword spotting in audio
 
 
 
