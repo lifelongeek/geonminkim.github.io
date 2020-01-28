@@ -17,8 +17,7 @@ At Clova Speech, I am developing speech recognition system on adverse condition.
 Dialog System, Speech Enhancement, Speech Recognition, Neural Networks and Machine Learning
 
 ## Publications
-(J: journal, C: conference, W: workshop, A: arxiv preprint)
-
+(J: journal, C: conference, W: workshop, A: arxiv preprint)  
 (* authors contributed equally)
 
 2019
