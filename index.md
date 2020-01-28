@@ -4,19 +4,23 @@ title: Geonmin Kim
 excerpt: "The personal website of Geonmin Kim."
 ---
 
+@settings {
+  font-size: 70;
+}
+
 ### Description
-##### I am currently working as a research engineer at Clova Speech of Naver corporation since March 2020. In 2020, I received Ph.D. (Thesis: Generalization of neural network on unseen acoustic environment and sentence for spoken dialog system) from the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST) under the supervision of Prof. Soo-Young Lee. In 2012, I received B.S. from the department of Electrical Engineering (major) and Mathematical Science (minor) at KAIST.
+I am currently working as a research engineer at Clova Speech of Naver corporation since March 2020. In 2020, I received Ph.D. (Thesis: Generalization of neural network on unseen acoustic environment and sentence for spoken dialog system) from the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST) under the supervision of Prof. Soo-Young Lee. In 2012, I received B.S. from the department of Electrical Engineering (major) and Mathematical Science (minor) at KAIST.
 
 At Clova Speech, I am developing speech recognition system on adverse condition.
 
-## Research Interests
+### Research Interests
 Dialog System, Speech Recognition, Neural Networks and Machine Learning
 
-## Publications
+### Publications
 (J: journal, C: conference, W: workshop, A: arxiv preprint, T: phD thesis)  
 (* authors contributed equally)
 
-### 2019
+#### 2019
 **[T] Generalization of Neural Network on Unseen Acoustic Environment and Sentence for Spoken Dialog System**
 * phD Thesis, Korea Advanced Institute of Science and Technology  
 (advised by Prof Daeshik Kim and Soo-Young Lee)
@@ -33,7 +37,7 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 * [\[paper\]](https://ieeexplore.ieee.org/document/8528843) [\[code\]](https://github.com/lifelongeek/AAS_enhancement)
 
 
-### 2018
+#### 2018
 **[A1] A Fully Time-domain Neural Model for Subband-based Speech Synthesizer**
 * Azam Rabiee, **Geonmin Kim**, Tae-Ho Kim, Soo-Young Lee
 * arxiv 2018
@@ -44,7 +48,7 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 * IEEE SPL 2018
 * [\[paper\]](https://ieeexplore.ieee.org/document/8105863)
 
-### ~2017
+#### ~2017
 **[W4] A Deep Chatbot for QA and Chitchat**
 * **Geonmin Kim\***, Hwaran Lee\*, CheongAn Lee, Eunmi Hong, Byunggeun Kim, Soo-Young Lee *(team kAIb)*
 * NIPS competition track workshop 2017
@@ -85,7 +89,7 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 * ICONIP 2012
 * [\[paper\]](https://link.springer.com/content/pdf/10.1007%2F978-3-642-34478-7_18.pdf)
 
-## Honors and Awards
+### Honors and Awards
 * Ranked 3rd, ConvAI challenge, NIPS 2017 Competition Track Workshop, 2017
 * Best Paper Award, HAI, 2015
 * Qualcomm Innovation Award, 2015  
@@ -94,29 +98,29 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 *Visiting student at BioPOETS lab, UC Berkeley, U.S., July. - August. 2014*
 * KAIST Graduate Scholarship, Mar. 2013 - Feb. 2020
  
-## Working experience
+### Working experience
 (L: leader, M: member)
 
-### Korea Advanced Institute of Science and Technology (2013-2019)
-#### Speech recognition
+#### Korea Advanced Institute of Science and Technology (2013-2019)
+##### Speech recognition
 * Semi-supervised continuous speech recognition (2016, L)
 * End-to-end continuous speech recognition (2015, L)
 * Acoustic model for Korean Syllable (2013-2014, L)  
 *for spontaneous spoken dialog system for language learning Electronics and Telecommunications Research Institute (ETRI)*
 
-#### Speech enhancement
+##### Speech enhancement
 * Location-robust blind source extraction (2018, M)  
 *for free-running embedded speech recognition technology for natural language dialogue with robots Korea Evaluation Institute of Industrial Technology (KEIT)*
 
 * Unpaired speech enhancement (2017, L)
 *for spontaneous spoken dialog system for language learning Electronics and Telecommunications Research Institute (ETRI)*
 
-#### Natural language generation
+##### Natural language generation
 * Article based question-answering and chitchat bot (2017, L)  
 *for emotional intelligence technology to infer human emotion and carry on dialogue accordingly Institute for Information & Communication Technology Promotion (IITP)*
 
-### Sony Computer Entertainment America
-#### Multiple keyword spotting  
+#### Sony Computer Entertainment America
+##### Multiple keyword spotting  
 *Research intern (mentor: Ruxin Chen)*
 
 
