@@ -5,8 +5,8 @@ excerpt: "The personal website of Geonmin Kim."
 ---
 
 ### Description
-I am currently a research engineer at [Clova AI Research](https://clova.ai/en/research/research-areas.html) since March 2020. 
-At Clova AI Research, I am developing speech recognition system on adverse condition.
+I am currently a research engineer at [Clova Speech](https://clova.ai/en/research/research-areas.html) since March 2020. 
+At Clova Speech, I am developing speech recognition system on adverse condition.
 
 In 2020, I received Ph.D. (Thesis: Generalization of neural network on unseen acoustic environment and sentence for spoken dialog system) from the School of Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST) under the supervision of Prof. Soo-Young Lee. In 2012, I received B.S. from the department of Electrical Engineering (major) and Mathematical Science (minor) at KAIST.
 
