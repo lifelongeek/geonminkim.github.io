@@ -20,7 +20,7 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 #### 2020
 **[] Semi-supervised Disentanglement with Independent Vector Variational Autoencoders**
 * Bo-Kyeong Kim, Seungjin Kim, **Geonmin Kim**, Soo-Young Lee
-* ICML 2020 submitted
+* Under review
 
 **[T] Generalization of Neural Network on Unseen Acoustic Environment and Sentence for Spoken Dialog System**
 * phD Thesis, Korea Advanced Institute of Science and Technology  
