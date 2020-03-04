@@ -4,7 +4,7 @@ email: ken.geonmin.kim@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Geonmin kim's interests and contributions 
 show_excerpts: true # set to true to show excerpts on the homepage
-url: "https://geonminkim.github.io"
+url: "https://lifelongeek.github.io"
 baseurl: "" #/texture
 
 
@@ -28,7 +28,7 @@ texture:
     github:  lifelongeek
     googlescholar: QRFMPSMAAAAJ
     linkedIn: in/geonmin-kim-642a8632    
-    CV: https://github.com/lifelongeek/geonminkim.github.io/raw/master/CV_Geonmin_Kim_200127.pdf
+    CV: https://github.com/lifelongeek/lifelongeek.github.io/raw/master/CV_Geonmin_Kim_200127.pdf
 
  
 
