@@ -18,7 +18,7 @@ Dialog System, Speech Recognition, Neural Networks and Machine Learning
 (* authors contributed equally)
 
 #### 2020
-**[] Semi-supervised Disentanglement with Independent Vector Variational Autoencoders**
+**[A] Semi-supervised Disentanglement with Independent Vector Variational Autoencoders**
 * Bo-Kyeong Kim, Seungjin Kim, **Geonmin Kim**, Soo-Young Lee
 * Under review
 * [\[paper\]](http://arxiv.org/abs/2003.06581)
